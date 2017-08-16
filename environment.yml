@@ -68,10 +68,10 @@ dependencies:
 - jinja2=2.8=py35_1
 - jpeg=8d=vc14_2
 - jsonschema=2.5.1=py35_0
-- jupyter=1.0.0=py35_3
-- jupyter_client=4.4.0=py35_0
-- jupyter_console=5.0.0=py35_0
-- jupyter_core=4.2.0=py35_0
+#- jupyter=1.0.0=py35_3
+#- jupyter_client=4.4.0=py35_0
+#- jupyter_console=5.0.0=py35_0
+#- jupyter_core=4.2.0=py35_0
 - lazy-object-proxy=1.2.1=py35_0
 - libdynd=0.7.2=0
 - libpng=1.6.27=vc14_0
@@ -155,7 +155,7 @@ dependencies:
 - snowballstemmer=1.2.1=py35_0
 - sockjs-tornado=1.0.3=py35_0
 - sphinx=1.4.6=py35_0
-- spyder=3.0.0=py35_0
+#- spyder=3.0.0=py35_0
 - sqlalchemy=1.0.13=py35_0
 - statsmodels=0.8.0=np112py35_0
 - sympy=1.0=py35_0
@@ -168,7 +168,7 @@ dependencies:
 - wcwidth=0.1.7=py35_0
 - werkzeug=0.11.11=py35_0
 - wheel=0.29.0=py35_0
-- widgetsnbextension=1.2.6=py35_0
+#- widgetsnbextension=1.2.6=py35_0
 - win_unicode_console=0.5=py35_0
 - wrapt=1.10.6=py35_0
 - xlrd=1.0.0=py35_0
@@ -181,9 +181,9 @@ dependencies:
   - dynd==c328ab7
   - et-xmlfile==1.0.1
   - ipython-genutils==0.1.0
-  - jupyter-client==4.4.0
-  - jupyter-console==5.0.0
-  - jupyter-core==4.2.0
+#  - jupyter-client==4.4.0
+#  - jupyter-console==5.0.0
+#  - jupyter-core==4.2.0
   - nb-anacondacloud==1.2.0
   - nb-conda==2.0.0
   - nb-conda-kernels==2.0.0
